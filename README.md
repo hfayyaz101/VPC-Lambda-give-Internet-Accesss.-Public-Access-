@@ -9,13 +9,13 @@
 ### Step 1
 
  1. Go to route tables.
- 2. Name exiting table (Private) 
- 3. Create new route table. (Make sure to name it Public)
+ 2. Name exiting table (Public) 
 	 1. Select Public table.
 	 2. Select Routes tab and click **Edit Routes**.
 	 3. Destination: **0.0.0.0/0** and points to: **igw-xxxx** (Internet Gateway)
 	 4. Now go to **Subnets Associations** tab and click **Edit Subnets associations**.
 	 5. Here add Public subnet.
+  3. Create new route table. (Make sure to name it Public)
 
 ### Step 2
 
