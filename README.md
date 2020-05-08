@@ -15,7 +15,7 @@
 	 3. Destination: **0.0.0.0/0** and points to: **igw-xxxx** (Internet Gateway)
 	 4. Now go to **Subnets Associations** tab and click **Edit Subnets associations**.
 	 5. Here add Public subnet.
-  3. Create new route table. (Make sure to name it Public)
+  3. Create new route table. (Make sure to name it Private)
 
 ### Step 2
 
